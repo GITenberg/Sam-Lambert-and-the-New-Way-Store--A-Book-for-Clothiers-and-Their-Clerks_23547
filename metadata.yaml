@@ -10,6 +10,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/49
     wikipedia: http://www.gutenberg.org/browse/authors/a#a216
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/23547#Sam-Lambert-and-the-New-Way-Store--A-Book-for-Clothiers-and-Their-Clerks
 gutenberg_issued: '2007-11-19'
 gutenberg_type: Text
 identifiers:
